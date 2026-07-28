@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Bangladeshi tv ", banglavision 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=442000.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name

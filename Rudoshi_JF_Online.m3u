@@ -25,8 +25,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", bd moves
 http://103.112.150.230/Data/disk6/tvseries/The%20Boys%282026%29/The_Boys_2026_Hindi_Dubbed_S05_EP04_Amazon_Prime_Video_Webseries_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="http://103.112.150.230//Admin/main/images/tt27880465/poster/original//pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg" group-title="bd moves",hd
+http://103.112.150.230//Data/disk6/movies/bollywood/2026//Tavvai (2026)/Tavvai 2026 WEB-DL Hindi 1080p.mp4
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link

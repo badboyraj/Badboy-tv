@@ -80,8 +80,8 @@ https://gpcdn.net
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_i_HD_logo_2021.png" group-title="Bangladeshi tv 🇧🇩",CHANNEL I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
-m3u8 link
+#EXTINF:-1 tvg-logo="https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg&w=750&q=75" group-title="bd moves", Channel Name
+https://ftp.ctgfun.com/TV_Series/House%20of%20the%20Dragon/House.of.the.Dragon.S01.720p.WEB-DL.x264%20%5BDDN%5D/House.of.the.Dragon.S01E01.The.Heirs.of.the.Dragon.720p.WEB-DL.x264%20%5BDDN%5D.mkv
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link

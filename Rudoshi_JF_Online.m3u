@@ -81,12 +81,13 @@ https://gpcdn.net
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2F7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg&w=750&q=75" Bd moves="Bd moves ", 5
-https://ftp.ctgfun.com/TV_Series/House%20of%20the%20Dragon/House.of.the.Dragon.S01.720p.WEB-DL.x264%20%5BDDN%5D/House.of.the.Dragon.S01E01.The.Heirs.of.the.Dragon.720p.WEB-DL.x264%20%5BDDN%5D.mkv
-
-#EXTINF:-1 tvg-logo="https://ctgmovies.com/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw1280%2Fvrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg&w=3840&q=75" group-title="Bd moves", Channel Name
-https://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Nagabandham%20(2026)%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nagabandham%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
- 
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
+  

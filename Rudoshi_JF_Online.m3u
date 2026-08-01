@@ -43,3 +43,76 @@ m3u8 link
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 m3u8 link
+
+
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://google.com 
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",BTV HD
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",ATN BANGLA
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Bangladeshi tv 🇧🇩",ATN Bangla UK
+https://ncare.live
+#EXTINF:-1 tvg-logo="https://bvnews24.com" group-title="Bangladeshi tv 🇧🇩",BANGLA VISION
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",CHANNEL I
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",CHANNEL 9 HD
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://gpcdn.net" group-title="Bangladeshi tv 🇧🇩",DEEPTO TV HD
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Bangladeshi tv 🇧🇩",Ekushay TV
+https://ekusheyserver.com
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Bangladeshi tv 🇧🇩",Ekushay TV (Local)
+http://210.4.72
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",GLOBAL TV HD
+https://jagobd.com.bd
+#EXTINF:-1 tvg-logo="https://greentvbangla.com" group-title="Bangladeshi tv 🇧🇩",Green TV
+https://ncare.live
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",MAASRANGA HD
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://mohona.tv" group-title="Bangladeshi tv 🇧🇩",Mohona TV
+https://jagobd.com.bd
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",NTV HD
+https://gpcdn.net
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",Akash Aath
+https://pishow.tv
+#EXTINF:-1 tvg-logo="https://amarbanglatv.in" group-title="Bangladeshi tv 🇧🇩",Amar Bangla
+https://ncare.live
+#EXTINF:-1 tvg-logo="https://bing.com" group-title="Bangladeshi tv 🇧🇩",Amar Digital TV
+https://ncare.live
+#EXTINF:-1 tvg-logo="https://banglaone.tv" group-title="Bangladeshi tv 🇧🇩",Bangla One
+https://getstreamhosting.com
+#EXTINF:-1 group-title="Bangladeshi tv 🇧🇩",BHI Channel
+https://livelegitpro.in
+#EXTINF:-1 tvg-logo="https://gstatic.com" group-title="Bangladeshi tv 🇧🇩",Channel S
+https://ncare.live
+#EXTINF:-1 tvg-logo="https://twimg.com" group-title="Bangladeshi tv 🇧🇩",DesheBideshe
+https://sonarbanglatv.com
+#EXTINF:-1 tvg-logo="https://jagobd.com" group-title="Bangladeshi tv 🇧🇩",Deshi TV
+https://deshitv24.net
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",DD Bangla
+https://cloudfront.net
+#EXTINF:-1 tvg-logo="https://jagobd.com" group-title="Bangladeshi tv 🇧🇩",Jankhar TV
+https://sonarbanglatv.com
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",Khushboo Bangla
+https://pishow.tv
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",Discovery Bangla
+http://202.70.146
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",Colors Bangla HD (Ads only)
+https://netlify.app
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Bangladeshi tv 🇧🇩",Enter10 Bangla HD
+https://akamaized.net
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Bangladeshi tv 🇧🇩",G-Serise
+https://aynaott.com
+#EXTINF:-1 tvg-logo="https://gstatic.com" group-title="Bangladeshi tv 🇧🇩",GALAXY TV BD
+https://jagobd.com.bd
+#EXTINF:-1 tvg-logo="https://dribbble.com" group-title="Bangladeshi tv 🇧🇩",MOV | ZB Cinema
+https://zillarbarta.com
+#EXTINF:-1 tvg-logo="https://moviebangla.tv" group-title="Bangladeshi tv 🇧🇩",Movie Bangla TV
+http://alvetv.com
+#EXTINF:-1 tvg-logo="https://googleusercontent.com" group-title="Bangladeshi tv 🇧🇩",MU | ATN MUSIC
+https://ncare.live
+#EXTINF:-1 tvg-logo="https://nocookie.net" group-title="Bangladeshi tv 🇧🇩",MU | SANGEET BANGLA
+https://pishow.tv
+#EXTINF:-1 tvg-logo="https://dribbble.com" group-title="Bangladeshi tv 🇧🇩",MU | ZB Music
+https://zillarbarta.com
